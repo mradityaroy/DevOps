@@ -1,0 +1,6 @@
+{"level":"warn","message":"Warn information"}
+{"level":"info","message":"Info information"}
+{"level":"debug","message":"Debug information"}
+{"level":"error","message":"some error"}
+{"level":"error","message":"some zero error"}
+{"level":"error","message":"some error"}
